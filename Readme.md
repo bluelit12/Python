@@ -1,6 +1,6 @@
 이것은 저의 파이썬 프로젝트를 올리는 곳입니다
 
-This is fodler that I upload Python project
+This is folder that I upload Python project
 
 만약 저의 코드를 피드백 해주시는 것이라면 언제나 환영입니다
 
